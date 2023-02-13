@@ -4,7 +4,7 @@ everyone dreads at the start of the semester. Sorry, I just needed a filler for 
 
 /*Un-comment this and fill in the info
 */
-const yourName : String = "Your name";
+const yourName : String = "Jack";
 let yourPronouns : String = "Pro/Nouns";
 const yourMajor : String = "Your major";
 let classification : String = "freshman/soph/junior/senior/supersenior";
